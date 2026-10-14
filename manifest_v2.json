@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "979877290311",
+    "restype": "watchface",
+    "name": "桌搭时钟",
+    "description": "一个适合放在桌上的横屏表盘。",
+    "preview": [
+      "media/宣传图 900x1200 (3).png",
+      "media/宣传图 900x1200 (4).png"
+    ],
+    "icon": "media/图标 300w.png",
+    "cover": "media/封面图 900x600.png",
+    "author": [
+      {
+        "name": "theqiqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "查看我的更多表盘",
+      "url": "https://wzyp.cn/shop/MO75RD9U",
+      "icon": "shopping-cart"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/桌搭时钟_米环10_1.0.0.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/桌搭时钟_米环10_1.0.0.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/桌搭时钟_米环11_1.0.0.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/桌搭时钟_米环11_1.0.0.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
